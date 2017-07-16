@@ -39,7 +39,7 @@
 	
 	Now, could you elaborate on where do you get stuck? Don't worry about the code first. Try to list the steps to do this project with plain text. What's the most difficult part in the steps do you think?
 	
-	TH: The student is in a bad situation. We have to to keep *empathic and compassionate* about it. Then we ask him/her some *open-ended questions* to help him/her think the problem further.
+	TP: The student is in a bad situation. We have to to keep *empathic and compassionate* about it. Then we ask him/her some *open-ended questions* to help him/her think the problem further.
 
  
 
@@ -49,7 +49,7 @@
 	
 	There is an old Chinese saying, *to teach someone how to fish is better than giving him fishes*. We are here to guide our students through solving problems on their own, not to give them the answer directly. This is the way to help you master the skill of problem solving. You may feel painful at the very beginning, you will get the joy of solving problems on your own once you get it.
 
-	TH: We can not give students answers directly due to some complaints. We have to follow the principles as a mentor.
+	TP: We can not give students answers directly due to some complaints. We have to follow the principles as a mentor.
 
 
 6. Margot's Strawberries
@@ -59,18 +59,18 @@
 
 	Mentor prompt #1: It's fine. Please let me ask you some questions. What are the facts we've already known? What's the question we are trying to answer?
 	
-	TH: It's a very useful skill to ask students some open-ended questions to make them understand the problem better.
+	TP: It's a very useful skill to ask students some open-ended questions to make them understand the problem better.
 
 	Part 2:
 	Student: Okay, so I have s = # strawberries, c = cost per strawberry in dollars, c = 7/18, and 8 = c * s. But now what?
 
 	Mentor prompt #2: Great! We've already known *cost per strawberry* and the total money we have. Now suppose we can buy *s* strawberries with $8, then the equation `8 = c * s` must hold. Our job is to resolve this equation and get what `s` is.
 	
-	TH: Giving students some positive feedback to keep them engaged. And then rephrasing the simplify the problem.
+	TP: Giving students some positive feedback to keep them engaged. And then rephrasing the simplify the problem.
 
 	Part 3:
 	Student: I have s = 144/7. Is that it?
 
 	Mentor prompt #3: Almost. Do you remember we can not buy part of a strawberry? That means we have to round `s` to an integer. Oh, don't forget to ask for the drawbacks at the end. Okay, now let's come back to the original question, do you have some questions about the whole process?
 	
-	TH: Finally we will deal with the details easy to miss. Make the student to recap the whole process with a question and make sure him/her get the hang of it thoroughly. 
+	TP: Finally we will deal with the details easy to miss. Make the student to recap the whole process with a question and make sure him/her get the hang of it thoroughly. 
